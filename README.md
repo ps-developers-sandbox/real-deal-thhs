@@ -3,7 +3,7 @@
 - Class Date: May 11-12, 2023
 - Facilitator: @RinatS
 
-## Class Resources
+## Class Resources test
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
